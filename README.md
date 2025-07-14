@@ -1,7 +1,7 @@
 # Welcome, I'm Adry👋
 
 ### Web Developer ⭐ 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AdryDevMR&theme=react)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AdryDevMR&theme=react&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ## About Me 👨‍💻
 
